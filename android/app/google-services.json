@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683103844682",
+    "project_id": "invoice-generator-e98bb",
+    "storage_bucket": "invoice-generator-e98bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683103844682:android:e8b0dcd981851076ba69b3",
+        "android_client_info": {
+          "package_name": "com.codeline.invoice_generator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683103844682-vbo39q5qj1ork32eoa4edccihb41crcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtEfr1o0p94ecbU9XjQMqWmMs0rdKxKX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683103844682-vbo39q5qj1ork32eoa4edccihb41crcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
